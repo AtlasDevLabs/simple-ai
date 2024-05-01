@@ -1,3 +1,3 @@
 # simple-ai
 
-The script is a simple and resource-efficient solution to eliminate AI from your server.
+This script is a simple, resource-efficient solution to eliminate AI from your server.
