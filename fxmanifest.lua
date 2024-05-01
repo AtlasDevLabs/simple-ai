@@ -1,5 +1,5 @@
 fx_version 'adamant'
 game 'gta5'
-author 'danboi'
+author 'AtlasDevLabs'
 
 client_script 'client.lua'
